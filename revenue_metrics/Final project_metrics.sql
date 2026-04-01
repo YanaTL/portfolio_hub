@@ -1,6 +1,6 @@
 WITH payment_summary AS (
   SELECT
-    date(date_trunc('month', payment_date)) AS payment_month,  -- витягуємо місяць з дати платежу
+    date(date_trunc('month', payment_date)) AS payment_month,  -- extracting month from payment_date
     game_name,
     user_id,
     sum(revenue_amount_usd) as total_revenue 
