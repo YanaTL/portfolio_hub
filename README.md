@@ -9,11 +9,9 @@ Welcome to my central analytics hub. This repository serves as a showcase for co
 
 ## 📂 Featured Integrated Projects
 These projects demonstrate my ability to manage the entire data lifecycle, combining the strengths of different technologies.
-### 🏆 Multi-Tool Projects (2+ Tools)
 - [revenue_metrics](https://github.com/YanaTL/portfolio_hub/tree/main/revenue_metrics)
   - **Stack:** `SQL` + `Tableau`
   - **Objective:** Extracting and aggregating transactional data to calculate core business KPIs, including Total Revenue, AOV, and Monthly Growth, while implementing Running Totals via window functions for trend analysis.
-### 🧪 Pet Projects
 
 ---
 
